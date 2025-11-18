@@ -1,0 +1,10 @@
+#Ignorar archivos temporales sistema
+.DS_store
+Thumbs.db
+#Ignorar archivos backup
+*~
+*.bak
+#Ignorar carpeta temporal
+/temp/
+#Ignorar archivos logs
+*.log
