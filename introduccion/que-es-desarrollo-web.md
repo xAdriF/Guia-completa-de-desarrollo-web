@@ -1,55 +1,18 @@
 # ¿Qué es el Desarrollo Web?
 
-El **desarrollo web** consiste en crear y mantener sitios y aplicaciones accesibles desde un navegador. Incluye programación, diseño y manejo de bases de datos.  
-Fuente: [Techopedia](https://www.techopedia.com/es/definicion/desarrollo-web)
+El **desarrollo web** es el proceso de crear y mantener páginas y aplicaciones que funcionan en Internet. Consiste en combinar programación, diseño y organización de la información para que un sitio web sea útil, visualmente agradable y fácil de usar.
+
+El desarrollo web se divide en dos grandes áreas:
+
+- **Front-end:** la parte visible por el usuario (colores, botones, menús, diseño).
+- **Back-end:** la parte interna que procesa datos y hace funcionar la página (servidor, bases de datos, lógica del sistema).
+
+En conjunto, estas áreas permiten que los sitios web funcionen correctamente, sean seguros y puedan verse en distintos dispositivos como ordenadores, móviles y tabletas.
 
 ---
 
-## Tipos de desarrollo
-
-- **Front-end:** interfaz y experiencia del usuario.  
-- **Back-end:** lógica del servidor y bases de datos.  
-- **Full-stack:** combinación de ambos.  
-Fuente: [HubSpot](https://blog.hubspot.es/website/que-es-desarrollo-web)
-
----
-
-## Etapas principales
-
-1. **Planificación:** objetivos y requerimientos.  
-2. **Diseño:** estructura visual y experiencia de usuario.  
-3. **Desarrollo:** programación front-end y back-end.  
-4. **Pruebas:** errores, compatibilidad y rendimiento.  
-5. **Despliegue:** publicación en un servidor.  
-6. **Mantenimiento:** actualizaciones y mejoras.  
-Fuente: [Techopedia](https://www.techopedia.com/es/definicion/desarrollo-web)
-
----
-
-## Tecnologías comunes
-
-- **HTML, CSS, JavaScript**  
-- Lenguajes: **Python, PHP, Java, Node.js**  
-- Frameworks: **React, Angular, Django, Express**  
-Fuente: [Wikipedia](https://es.wikipedia.org/wiki/Desarrollo_web)
-
----
-
-## Tendencias actuales
-
-- **PWA**,  
-- **No-code/Low-code**,  
-- **IA en aplicaciones web**,  
-- **Web 3.0 y blockchain**  
-Fuente: [Wikipedia](https://es.wikipedia.org/wiki/Desarrollo_web)
-
----
-
-## Enlaces
-
-- Techopedia – Definición:  
-  https://www.techopedia.com/es/definicion/desarrollo-web  
-- HubSpot – Introducción al desarrollo web:  
-  https://blog.hubspot.es/website/que-es-desarrollo-web  
-- Wikipedia – Visión general:  
+## Fuentes fiables
+- Techopedia – ¿Qué es el desarrollo web?:  
+  https://www.techopedia.com/es/definicion/desarrollo-web
+- Wikipedia – Desarrollo web:  
   https://es.wikipedia.org/wiki/Desarrollo_web
