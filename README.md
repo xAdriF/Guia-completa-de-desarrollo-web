@@ -31,6 +31,12 @@ Es un recurso ideal para aprender paso a paso o perfeccionar habilidades profesi
 - 🔹 [JavaScript moderno](/frontend/javascript-moderno.md)  
 - 🔹 [Frameworks](/frontend/frameworks.md)  
 
+### Backend
+- 🔹 [Apis](/backend/apis-rest.md)  
+- 🔹 [Bases de datos](/backend/bases-de-datos.md)  
+- 🔹 [Seguridad](/backend/seguridad.md)  
+- 🔹 [Servidores](/backend/servidores.md)  
+
 ---
 
 *Esta guía está pensada para acompañarte paso a paso en el aprendizaje y perfeccionamiento de tus habilidades en desarrollo web.*
