@@ -1,5 +1,4 @@
 # Glosario Web Resumido
-
 ## 🌍 Conceptos Generales
 * **API**: Interfaz que permite que dos aplicaciones se comuniquen entre sí.
 * **HTTP/HTTPS**: Protocolo base de transferencia de datos en la web. La 'S' indica seguridad.
