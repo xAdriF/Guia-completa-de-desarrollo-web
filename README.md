@@ -42,8 +42,8 @@ Es un recurso ideal para aprender paso a paso o perfeccionar habilidades profesi
 - 🔹 [Captura 2](/imagenes/Captura%202.png)  
 - 🔹 [Captura 3](/imagenes/Captura%203.png)  
 
-### Glosario
-- 🔹 [Glosario](/glosario.md)
+### Recursos
+- 🔹 [Glosario](/recursos/glosario.md)
 
 ---
 
