@@ -37,6 +37,14 @@ Es un recurso ideal para aprender paso a paso o perfeccionar habilidades profesi
 - 🔹 [Seguridad](/backend/seguridad.md)  
 - 🔹 [Servidores](/backend/servidores.md)  
 
+### Imágenes
+- 🔹 [Captura 1](/imagenes/Captura%201.png)  
+- 🔹 [Captura 2](/imagenes/Captura%202.png)  
+- 🔹 [Captura 3](/imagenes/Captura%203.png)  
+
+### Glosario
+- 🔹 [Glosario](/glosario.md)
+
 ---
 
 *Esta guía está pensada para acompañarte paso a paso en el aprendizaje y perfeccionamiento de tus habilidades en desarrollo web.*
